@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jhonsrodrigues.com.ico",
     "slug": "jhons-rodrigues",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "97.98%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
     "time": 503,
     "timeDay": 940,
     "timeWeek": 1028,
@@ -43,17 +43,19 @@
     "url": "https://bot-jrguard-38ec35688c80.herokuapp.com/",
     "icon": "https://tyipxaldonkfqlztqmbk.supabase.co/storage/v1/object/public/public-images/Logotipo%20XYZ%20Vermelho.png",
     "slug": "xyz-guard-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 125,
-    "timeWeek": 118,
-    "timeMonth": 145,
-    "timeYear": 145,
-    "dailyMinutesDown": {}
+    "time": 260,
+    "timeDay": 2078,
+    "timeWeek": 607,
+    "timeMonth": 260,
+    "timeYear": 260,
+    "dailyMinutesDown": {
+      "2026-09-28": 0
+    }
   }
 ]
